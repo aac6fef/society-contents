@@ -1,37 +1,100 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/aac6fef/society-contents/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/aac6fef/society-contents/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+# 社会九年级目录
+# 九年级第一学期
+在书上，懒得写
+# 九年级第二学期
+## 专题一：正确认识自我 /1
+- 知识窗——自我意识
+### 第一节 感受成长 /2
+1. 成长的烦恼 /2
+- 案例——小韩的烦恼
+	* 知识窗——青春期
+2. 多梦的季节 /4
+- 案例——依佳的梦
+	* 知识窗——人生盾牌
+### 第二节 认识性格和个性 /6
+1. 世界上没有两片完全相同的叶子 /7
+- 案例——卖花
+	* 知识窗——性格的类型
+2. 性格决定命运吗 /9
+- 知识窗—— 行为-性格-命运
+- 案例——一封咨询来信
+	* 知识窗——性格与个性
+	* 知识窗——常见的性格缺陷
+### 第三节 走向成熟 /12
+1. 从幼稚到成熟 /12
+- 案例——小大人和长不大
+	* 知识窗——心理断乳期
+2. 在压力下成长 /14
+- 案例——南京一中学要建发泄墙
+	* 知识窗——心理压力
+## 专题二 承担社会角色 /20
+- 知识窗——社会角色
+### 第一节 认识角色 /21
+1. 人的多重角色 /21
+- 案例——会变脸的老师
+	* 知识窗——角色的种类
+2. 角色的价值 /24
+- 案例——冲出亚马孙
+### 第二节 培养角色意识 /26
+1. 角色的认识与规范 /27
+- 案例——我们为什么处处受约束
+	* 知识窗——角色规范
+	* 知识窗——学生的权利与义务
+2. 角色的权利与义务 /29
+- 案例——父与子
+	* 知识窗——角色期望
+### 第三节 学会角色协调 /31
+- 知识窗——角色冲突
+1. 角色的服从与突破 /31
+- 案例——该不该“打不还手，骂不还口”
+2. 角色的转换与协调 /34
+- 案例——落选之后
+	* 知识窗——化解角色冲突的策略
+## 专题三 熟悉社会规则 /37
+### 第一节 理解社会规则 /38
+1. 规则的社会价值 /38
+- 案例——分面包引起的纠纷
+	* 知识窗——游戏规则
+2. 规则的制定原则 /40
+- 案例——新星中学的运动会赛制
+### 第二节 辩证看待规则 /41
+1. 规则的公平性与局限性 /41
+- 案例——生死之门
+	* 知识窗——红绿灯效应
+2. 规则的普遍性与特殊性 /44
+- 案例——特殊人群该不该照顾？
+### 第三节 正当获取利益 /46
+1. 个人利益与社会道义 /46
+- 案例——雷锋公司遭遇的尴尬
+	* 知识窗——论义与利
+2. 运用规则与坚守底线 /49
+- 案例——一次输球的风波
+	* 知识窗——奥林匹克精神
+	* 知识窗——破窗效应
+## 专题四 逐步走向成功 /52
+- 知识窗——名人论成功
+### 第一节理解成功的内涵 /53
+1. 成功是一个过程 /53
+- 案例——谁来帮助失落的童星
+	* 知识窗——名人论成功（注：与上面那个不是一个知识窗）
+	* 知识窗——终身学习
+2. 成功有不同的衡量标准 /55
+- 案例——两个司机的故事
+	* 知识窗——阿Q精神与精神胜利法
+### 第二节 确立成功的目标 /57
+1. 成功是一种美好的愿望 /58
+- 案例——追星与偶像崇拜
+	* 知识窗——偶像崇拜
+2. 成功的目标与途径 /60
+- 案例——彬彬，快跑
+	* 知识窗——种花-种树-种观念
+	* 知识窗——魔鬼训练
+### 第三节 为成功做好准备 /63
+1. 智力因素与非智力因素 /63
+- 案例——过度护考的副作用
+	* 知识窗——智商与情商
+2. 外在条件与内在素质 /65
+- 案例——美容整容热出现低龄化趋势
+	* 知识窗——走向成功的法则
+# 注释
+1. 格式采用 页数/数字页码 来表示
